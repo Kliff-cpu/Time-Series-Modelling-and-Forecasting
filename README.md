@@ -40,8 +40,8 @@ Returns were computed as log-returns for time series modelling.
 ---
 ## 🔹 Data
 
-The analysis was conducted using historical price data for Volkswagen AG, selected as a liquid and well-traded equity with observable volatility dynamics.
-Returns were computed as log-returns for time series modelling.
+- The analysis was conducted using historical price data for Volkswagen AG, selected as a liquid and well-traded equity with observable volatility dynamics.
+- Returns were computed as log-returns for time series modelling.
 
 ----
 ## 🔹 Key Insights
