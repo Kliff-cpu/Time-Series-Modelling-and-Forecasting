@@ -34,14 +34,15 @@ Forecast performance was evaluated using:
 
 **Result:**
 - EGARCH produced the most accurate forecasts based on both MSE and MAE
+Returns were computed as log-returns for time series modelling.
 - The DM test was used to assess whether forecast differences between models were statistically significant
 
 ---
 ## 🔹 Data
 
 The analysis was conducted using historical price data for Volkswagen AG, selected as a liquid and well-traded equity with observable volatility dynamics.
-
 Returns were computed as log-returns for time series modelling.
+
 ----
 ## 🔹 Key Insights
 
